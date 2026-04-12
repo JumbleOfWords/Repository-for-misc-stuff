@@ -1,1 +1,1 @@
-Notepad.exe script_PT2.md
+Notepad.exe "Meme Folder\script_PT2.md"
