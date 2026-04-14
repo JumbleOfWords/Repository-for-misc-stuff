@@ -1,1 +1,2 @@
+@echo off
 Notepad.exe "Meme Folder\script_PT2.md"
